@@ -4,7 +4,7 @@ Java CLI which uses the [AssemblyAI Service](https://www.assemblyai.com/docs/get
 I am interested in audio and sound so I followed his tutorial and created this small application.
 
 This has introduced me to the AssemblyAI service. 
-I have also gained knowledge about the FFmpeg library and how to use it on the command line to extract audio from video.
+I have also gained knowledge about the [FFmpeg](https://ffmpeg.org/) multimedia framework and how to use it on the command line to extract audio from video. I am working to include it directly into this application for ease and OneStop Shopping.
 
 ## Practical application
 
