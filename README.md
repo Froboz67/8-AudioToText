@@ -1,6 +1,6 @@
 # Audio to Text 
 
-Java CLI which uses the AssemblyAI Service to convert audio to text. Giving credit to [YouTuber Coding with John](https://www.youtube.com/@CodingWithJohn)
+Java CLI which uses the [AssemblyAI Service](https://www.assemblyai.com/docs/getting-started/transcribe-an-audio-file) to convert audio to text. Giving credit to [YouTuber Coding with John](https://www.youtube.com/@CodingWithJohn)
 I am interested in audio and sound so I followed his tutorial and created this small application
 
 This has introduced me to the AssemblyAI service. 
