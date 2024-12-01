@@ -1,10 +1,10 @@
 # Audio to Text 
 
 Java CLI which uses the [AssemblyAI Service](https://www.assemblyai.com/docs/getting-started/transcribe-an-audio-file) to convert audio to text. Giving credit to [YouTuber Coding with John](https://www.youtube.com/@CodingWithJohn)
-I am interested in audio and sound so I followed his tutorial and created this small application
+I am interested in audio and sound so I followed his tutorial and created this small application.
 
 This has introduced me to the AssemblyAI service. 
-I have also gained knowledge about the FFmpeg library and how to use it on the command line to extract audio from video
+I have also gained knowledge about the FFmpeg library and how to use it on the command line to extract audio from video.
 
 ## Practical application
 
